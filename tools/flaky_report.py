@@ -17,7 +17,10 @@ def load_results(directory: str) -> dict:
     for path in glob.glob(f"{directory}/**/*.xml", recursive=True):
         for case in ET.parse(path).iter("testcase"):
             test_id = f"{case.get('classname', '')}::{case.get('name', '')}"
-            failure = case.find("failure") or case.find("error")
+            # Compare to None: an Element with no children is falsy, so `or` would skip it.
+            failure = case.find("failure")
+            if failure is None:
+                failure = case.find("error")
             skipped = case.find("skipped") is not None
             if skipped:
                 continue
