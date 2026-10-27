@@ -1,0 +1,6 @@
+{
+  "always_full": ["ci/", "package.json", "requirements.txt", "tests/conftest.py"],
+  "services/billing/": ["tests/api/test_billing_contract.py"],
+  "services/patients/": ["tests/api/test_patients_contract.py"],
+  "services/payments/": ["tests/api/test_payments_contract.py"]
+}

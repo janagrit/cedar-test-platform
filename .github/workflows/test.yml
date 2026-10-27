@@ -1,0 +1,35 @@
+name: playwright
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  playwright:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - run: npm run typecheck
+      - name: Run Playwright tests
+        run: npx playwright test
+        env:
+          TEST_ENV: ${{ vars.TEST_ENV || 'local' }}
+          API_TOKEN: ${{ secrets.API_TOKEN }}
+      - name: Upload report and JUnit results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-${{ github.run_id }}
+          path: |
+            playwright-report/
+            results/
+      - name: Flaky report
+        if: always()
+        run: npm run flaky
