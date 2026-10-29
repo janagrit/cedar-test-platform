@@ -8,7 +8,7 @@
 
 | # | Severity | Finding | Where |
 | --- | --- | --- | --- |
-| 1 | Medium | Two internal links return 404 | 2 blog posts |
+| 1 | Medium | Three links inside blog posts go to "page not found" (404), pointing to 2 broken pages; the posts themselves load fine | 2 blog posts |
 | 2 | Medium | JavaScript `TypeError` on page load | `/resources` |
 | 3 | Low | Broken placeholder images | `/about-us` |
 | 4 | Low | Leftover CookieYes script returns 403 on every page | site-wide |
@@ -19,15 +19,52 @@
 
 ## Findings
 
-### 1. Two internal links return 404
-| Broken link | Linked from |
-| --- | --- |
-| `https://www.cedar.com/blog/hospital-billing-calls-ai-automation-study/` | `/blog/ai-reducing-patient-billing-confusion`, `/blog/why-self-pay-collections-matter-what-good-looks-like` (seen 2026-10-29) |
-| `https://www.cedar.com/2024-healthcare-financial-experience-study/` | `/blog/why-self-pay-collections-matter-what-good-looks-like` |
+### 1. Three links inside blog posts go to "page not found"
+The blog posts open normally. The problem is three links in the text of two posts. They point to **2 broken pages**, so **2 redirects fix all 3 links**.
 
-Both return 404 with and without the trailing slash (re-checked with `curl -L`).
-**Repro:** open the blog post, click the inline link.
-**Fix:** point to the current URL of each study, or add a redirect.
+| # | Blog post | Link text | Goes to (404) |
+| --- | --- | --- | --- |
+| 1 | Why Self Pay Collections Matter | "38% of patients" | `/2024-healthcare-financial-experience-study/` |
+| 2 | AI Tools To Reduce Billing Confusion | "analyzing real billing calls" | `/blog/hospital-billing-calls-ai-automation-study/` |
+| 3 | Why Self Pay Collections Matter | "94% of inbound calls" | `/blog/hospital-billing-calls-ai-automation-study/` (same as link 2) |
+
+Both broken URLs return 404 with and without the trailing slash (re-checked with `curl -L` on 2026-10-29).
+
+#### Broken page 1: 2024 Healthcare Financial Experience Study (`/2024-healthcare-financial-experience-study/`)
+
+**Link: "38% of patients"**
+1. Go to https://www.cedar.com/
+2. In the top menu, click **Resources**, then **Blog**.
+3. Open the post **"Why Self Pay Collections Matter."**
+4. Scroll to the section **"It makes or breaks your patient experience."**
+5. Click the link **"38% of patients."**
+
+Expected: the 2024 study opens. Actual: "Page Not Found" (404).
+
+#### Broken page 2: Billing Calls AI Automation Study (`/blog/hospital-billing-calls-ai-automation-study/`)
+Two links in two different posts point to this page.
+
+**Link A: "analyzing real billing calls"**
+1. Go to https://www.cedar.com/
+2. In the top menu, click **Resources**, then **Blog**.
+3. Open the post **"AI Tools To Reduce Billing Confusion."**
+4. Scroll to the section **"The technical reality of building Kora."**
+5. Click the link **"analyzing real billing calls."**
+
+Expected: the billing calls study opens. Actual: "Page Not Found" (404).
+
+**Link B: "94% of inbound calls"**
+1. Go to https://www.cedar.com/
+2. In the top menu, click **Resources**, then **Blog**.
+3. Open the post **"Why Self Pay Collections Matter"** (the same post as the "38% of patients" link).
+4. Find the sentence "It shows up operationally, too: 94% of inbound calls to billing call centers are confusion-driven…"
+5. Click the link **"94% of inbound calls."**
+
+Expected: the billing calls study opens. Actual: the same "Page Not Found" (404) as Link A.
+
+**Fix:** add a redirect from each old URL to the study's current page (both found in the sitemap and return 200 on 2026-10-29):
+- `/2024-healthcare-financial-experience-study/` → `/research/2024-healthcare-financial-experience-study`
+- `/blog/hospital-billing-calls-ai-automation-study/` → `/blog/what-we-learned-from-4-000-hospital-billing-calls-and-how-ai-can-help-automate-them` (likely match by title and topic; not confirmed against the "94%" figure)
 
 ### 2. JavaScript error on `/resources`
 `TypeError: Cannot read properties of undefined (reading 'redraw')`, thrown on page load at both desktop and mobile widths.
@@ -74,7 +111,7 @@ Same script, same scope: 29 internal pages × 2 viewports (52 page loads), 176 l
 
 | # | Finding | Status |
 | --- | --- | --- |
-| 1 | Internal 404 links | Still broken. `hospital-billing-calls-ai-automation-study` is now also linked from `/blog/why-self-pay-collections-matter-what-good-looks-like` |
+| 1 | Broken links inside blog posts | Still broken. `hospital-billing-calls-ai-automation-study` is now also linked from `/blog/why-self-pay-collections-matter-what-good-looks-like` |
 | 2 | `redraw` TypeError on `/resources` | Still present (desktop + mobile) |
 | 3 | Placeholder images on `/about-us` | Still present, 5 visible broken per load |
 | 4 | CookieYes script 403 | Still present on all 52 loads |
