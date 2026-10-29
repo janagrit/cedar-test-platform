@@ -2,6 +2,7 @@
 
 **Date:** 2026-10-27 · **Scope:** homepage + 28 internal pages linked from it, each at desktop (1440×900) and mobile (iPhone 13) · 176 unique links checked
 **Method:** passive headless Chromium crawl (Playwright) from one location. No form submissions, no logins. Findings below were re-checked by hand after the crawl.
+**Re-checked:** 2026-10-29, same crawl script. All 8 findings still present, no new ones (see [Re-check 2026-10-29](#re-check-2026-10-29)).
 
 ## Summary
 
@@ -21,7 +22,7 @@
 ### 1. Two internal links return 404
 | Broken link | Linked from |
 | --- | --- |
-| `https://www.cedar.com/blog/hospital-billing-calls-ai-automation-study/` | `/blog/ai-reducing-patient-billing-confusion` |
+| `https://www.cedar.com/blog/hospital-billing-calls-ai-automation-study/` | `/blog/ai-reducing-patient-billing-confusion`, `/blog/why-self-pay-collections-matter-what-good-looks-like` (seen 2026-10-29) |
 | `https://www.cedar.com/2024-healthcare-financial-experience-study/` | `/blog/why-self-pay-collections-matter-what-good-looks-like` |
 
 Both return 404 with and without the trailing slash (re-checked with `curl -L`).
@@ -68,8 +69,25 @@ Most pages have 2–4 `<h1>` (section headings and "Subscribe to our newsletter"
 ## Limits
 One location, headless Chromium only, a single crawl depth (pages linked from the homepage). No Safari/Firefox, no screen-reader testing, no visual review of every page.
 
+## Re-check 2026-10-29
+Same script, same scope: 29 internal pages × 2 viewports (52 page loads), 176 links. All pages returned 200.
+
+| # | Finding | Status |
+| --- | --- | --- |
+| 1 | Internal 404 links | Still broken. `hospital-billing-calls-ai-automation-study` is now also linked from `/blog/why-self-pay-collections-matter-what-good-looks-like` |
+| 2 | `redraw` TypeError on `/resources` | Still present (desktop + mobile) |
+| 3 | Placeholder images on `/about-us` | Still present, 5 visible broken per load |
+| 4 | CookieYes script 403 | Still present on all 52 loads |
+| 5 | Lottie placeholder 403 | Still present on all 52 loads |
+| 6 | Focusable `aria-hidden` links | Still present (300+; the script caps at 10 per page) |
+| 7 | Duplicate `id="Email"` | Still present, 15 pages |
+| 8 | Heading structure | Still present: 15 pages with 2–4 `h1`, none on `/book-a-demo` |
+
+The external 403/999 links are the same 13 as on 2026-10-27. Raw data: `evidence/crawl-results-2026-10-29.json`.
+
 ## Evidence
 - `evidence/crawl-results.json`: raw per-page results (console errors, failed requests, a11y checks, broken links)
+- `evidence/crawl-results-2026-10-29.json`: raw results from the 2026-10-29 re-check
 - `evidence/crawl-script.cjs`: the crawl script. Run with `BASE_URL=https://www.cedar.com NODE_PATH=$PWD/node_modules node audit/evidence/crawl-script.cjs <out-dir>` (`<out-dir>` needs a `shots/` folder)
 - `evidence/screenshots/desktop-home.png`, `mobile-home.png`: full-page homepage
 - `evidence/screenshots/consent-banner-on-load.png`: DataGrail banner on first load

@@ -1,0 +1,2667 @@
+{
+  "internalPagesFound": 29,
+  "linksChecked": 176,
+  "pages": [
+    {
+      "url": "https://www.cedar.com",
+      "label": "desktop-home",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=4&frm=0&apvc=1&auid=2001817154.1793284762&dt=Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2F&scrsrc=www.cedar.com&rnd=117203274.1793284762&",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284762130&cv=11&fst=1793284762130&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=19&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2F&scrsrc=www.googletagmanager.com&rnd=117203274.1793284762&navt=n&npa=1&ep.ads_d"
+      ],
+      "status": 200,
+      "title": "Cedar",
+      "lang": "en",
+      "metaDescription": "Cedar unifies billing, payments, coverage, and support through one intelligent platform driving stronger margins for providers and simpler patient experiences.",
+      "h1": [
+        "Built for patients. Powered by intelligence. Proven in performance."
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/solutions/cedar-pay\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/solutions/cedar-cover\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/solutions/cedarsupport\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/resources/case-studies\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [
+        "<input type=\"submit\" class=\"hs-button primary large\" value=\"Submit\">"
+      ],
+      "duplicateIds": [
+        " x69",
+        "w-node-c3a068e4-3794-3a2e-1f0d-5bd39c92ea77-9c92ea72 x3",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com",
+      "label": "mobile-home",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284767527&cv=11&fst=1793284767527&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=10&frm=0&apvc=1&auid=91893986.1793284768&dt=Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2F&scrsrc=www.cedar.com&rnd=1639481916.1793284768&",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=11&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2F&scrsrc=www.googletagmanager.com&rnd=1639481916.1793284768&navt=n&npa=1&ep.ads_",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg"
+      ],
+      "status": 200,
+      "title": "Cedar",
+      "lang": "en",
+      "metaDescription": "Cedar unifies billing, payments, coverage, and support through one intelligent platform driving stronger margins for providers and simpler patient experiences.",
+      "h1": [
+        "Built for patients. Powered by intelligence. Proven in performance."
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/solutions/cedar-pay\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/solutions/cedar-cover\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/solutions/cedarsupport\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/resources/case-studies\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [
+        "<input type=\"submit\" class=\"hs-button primary large\" value=\"Submit\">"
+      ],
+      "duplicateIds": [
+        " x69",
+        "w-node-c3a068e4-3794-3a2e-1f0d-5bd39c92ea77-9c92ea72 x3",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/solutions/cedar-pay",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284774913&cv=11&fst=1793284774913&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=9&frm=0&apvc=1&auid=2001817154.1793284762&dt=Cedar%20Pay%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fcedar-pay&scrsr",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=19&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fcedar-pay&scrsrc=www.googletagmanager.com&rnd=2125666930.1793284775"
+      ],
+      "status": 200,
+      "title": "Cedar Pay | Cedar",
+      "lang": "en",
+      "metaDescription": "Cedar Pay helps healthcare providers increase revenue with empathetic patient billing. 22% collections lift, 89% patient satisfaction. Schedule a demo today.",
+      "h1": [
+        "The lift providers\nwant. The\nexperience\npatients deserve.",
+        "Helping providers succeed in the ways that count"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/resources/case-studies\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x38",
+        "w-node-c3a068e4-3794-3a2e-1f0d-5bd39c92ea77-9c92ea72 x3"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/solutions/cedar-pay",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284778569&cv=11&fst=1793284778569&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=12&frm=0&apvc=1&auid=91893986.1793284768&dt=Cedar%20Pay%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fcedar-pay&scrsrc",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=17&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fcedar-pay&scrsrc=www.googletagmanager.com&rnd=635940567.1793284779&"
+      ],
+      "status": 200,
+      "title": "Cedar Pay | Cedar",
+      "lang": "en",
+      "metaDescription": "Cedar Pay helps healthcare providers increase revenue with empathetic patient billing. 22% collections lift, 89% patient satisfaction. Schedule a demo today.",
+      "h1": [
+        "The lift providers\nwant. The experience\npatients deserve.",
+        "Helping providers succeed in the ways that count"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/resources/case-studies\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x38",
+        "w-node-c3a068e4-3794-3a2e-1f0d-5bd39c92ea77-9c92ea72 x3"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/solutions/cedar-cover",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284782593&cv=11&fst=1793284782593&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=0&frm=0&apvc=1&auid=2001817154.1793284762&dt=Cedar%20Cover%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fcedar-cover&s",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=19&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fcedar-cover&scrsrc=www.googletagmanager.com&rnd=855645897.179328478"
+      ],
+      "status": 200,
+      "title": "Cedar Cover | Cedar",
+      "lang": "en",
+      "metaDescription": "Cedar Cover identifies, secures, and maintains patient coverage while increasing provider revenue. Increase coverage 30% and reduce staff burden.",
+      "h1": [
+        "A Connected\nPatient\nAffordability\nSolution",
+        "Driving measurable impact for patients and providers",
+        "How Cedar Cover Works"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"#video\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"#video\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x20"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/solutions/cedar-cover",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284785597&cv=11&fst=1793284785597&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=1&auid=91893986.1793284768&dt=Cedar%20Cover%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fcedar-cover&scr",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=13&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fcedar-cover&scrsrc=www.googletagmanager.com&rnd=456080870.179328478"
+      ],
+      "status": 200,
+      "title": "Cedar Cover | Cedar",
+      "lang": "en",
+      "metaDescription": "Cedar Cover identifies, secures, and maintains patient coverage while increasing provider revenue. Increase coverage 30% and reduce staff burden.",
+      "h1": [
+        "A Connected Patient\nAffordability Solution",
+        "Driving measurable impact for patients and providers",
+        "How Cedar Cover Works"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"#video\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"#video\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x20"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/solutions/cedarsupport",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284788917&cv=11&fst=1793284788917&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=13&frm=0&apvc=1&auid=2001817154.1793284762&dt=Cedar%20Support%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fcedarsuppo",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=7&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fcedarsupport&scrsrc=www.googletagmanager.com&rnd=783803191.179328478"
+      ],
+      "status": 200,
+      "title": "Cedar Support | Cedar",
+      "lang": "en",
+      "metaDescription": "AI-powered call center solution for patient billing. Reduce costs, improve satisfaction, and increase collections with 24/7 automated support.",
+      "h1": [
+        "Smarter Billing\nSupport",
+        "Driving measurable impact for patients and providers"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x22"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/solutions/cedarsupport",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284792037&cv=11&fst=1793284792037&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=3&frm=0&apvc=1&auid=91893986.1793284768&dt=Cedar%20Support%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fcedarsupport&",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=2&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fcedarsupport&scrsrc=www.googletagmanager.com&rnd=561853914.179328479"
+      ],
+      "status": 200,
+      "title": "Cedar Support | Cedar",
+      "lang": "en",
+      "metaDescription": "AI-powered call center solution for patient billing. Reduce costs, improve satisfaction, and increase collections with 24/7 automated support.",
+      "h1": [
+        "Smarter Billing Support",
+        "Driving measurable impact for patients and providers"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x22"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/solutions/kora-ai",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284795855&cv=11&fst=1793284795855&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=14&frm=0&apvc=1&auid=2001817154.1793284762&dt=Kora%20Platform%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fkora-ai&sc",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=16&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fkora-ai&scrsrc=www.googletagmanager.com&rnd=1139446579.1793284796&n"
+      ],
+      "status": 200,
+      "title": "Kora Platform | Cedar",
+      "lang": "en",
+      "metaDescription": "Kora Platform is a suite of AI agents that work together to recover patient revenue, reduce cost-to-collect, and support patients without disrupting existing IT environments.",
+      "h1": [
+        "The Agentic\nPlatform Built for\nPatient Financial\nResolution",
+        "Driving measurable impact for patients and providers",
+        "“The biggest surprise was how quickly we saw results. The percentage of calls th"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x18"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/solutions/kora-ai",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284801331&cv=11&fst=1793284801331&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=14&frm=0&apvc=1&auid=91893986.1793284768&dt=Kora%20Platform%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fkora-ai&scrs",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=6&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fkora-ai&scrsrc=www.googletagmanager.com&rnd=633104477.1793284801&nav",
+        "net::ERR_ABORTED https://player.vimeo.com/video/1217736224",
+        "net::ERR_ABORTED https://player.vimeo.com/video/1217736222",
+        "net::ERR_ABORTED https://player.vimeo.com/video/1217736223"
+      ],
+      "status": 200,
+      "title": "Kora Platform | Cedar",
+      "lang": "en",
+      "metaDescription": "Kora Platform is a suite of AI agents that work together to recover patient revenue, reduce cost-to-collect, and support patients without disrupting existing IT environments.",
+      "h1": [
+        "The Agentic Platform Built\nfor Patient Financial\nResolution",
+        "Driving measurable impact for patients and providers",
+        "“The biggest surprise was how quickly we saw results. The percentage of calls th"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x18"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/solutions/implementation",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284806788&cv=11&fst=1793284806788&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=11&frm=0&apvc=1&auid=2001817154.1793284762&dt=Implementation%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fimplementat",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=16&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fimplementation&scrsrc=www.googletagmanager.com&rnd=2055065060.17932",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg"
+      ],
+      "status": 200,
+      "title": "Implementation | Cedar",
+      "lang": "en",
+      "metaDescription": "Cedar combines proven integration experience with disciplined project management, ensuring that even the highest complexity organizations go-live on time.",
+      "h1": [
+        "Getting to Go-Live\nis a Partnership",
+        "Cedar Integrates with All Major EMRs",
+        "\"This is by far - and we work with a lot of vendors - the smoothest implementati"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/resources/case-studies\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x71",
+        "w-node-c3a068e4-3794-3a2e-1f0d-5bd39c92ea77-9c92ea72 x3"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/solutions/implementation",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284810406&cv=11&fst=1793284810406&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=4&frm=0&apvc=1&auid=91893986.1793284768&dt=Implementation%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fimplementation",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=6&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fimplementation&scrsrc=www.googletagmanager.com&rnd=1857204410.179328",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg"
+      ],
+      "status": 200,
+      "title": "Implementation | Cedar",
+      "lang": "en",
+      "metaDescription": "Cedar combines proven integration experience with disciplined project management, ensuring that even the highest complexity organizations go-live on time.",
+      "h1": [
+        "Getting to Go-Live is a\nPartnership",
+        "Cedar Integrates with All Major EMRs",
+        "\"This is by far - and we work with a lot of vendors - the smoothest implementati"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/resources/case-studies\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x71",
+        "w-node-c3a068e4-3794-3a2e-1f0d-5bd39c92ea77-9c92ea72 x3"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/solutions/cedar-intelligence",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=18&frm=0&apvc=1&auid=2001817154.1793284762&dt=Cedar%20Intelligence&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fcedar-intelligence&",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284814134&cv=11&fst=1793284814134&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=14&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fcedar-intelligence&scrsrc=www.googletagmanager.com&rnd=174990501.17"
+      ],
+      "status": 200,
+      "title": "Cedar Intelligence",
+      "lang": "en",
+      "metaDescription": "Providers use the new capabilities powered by Cedar Intelligence, our AI-powered personalization engine, to offer a unique, individualized patient financial experience, boosting patient payments and satisfaction.",
+      "h1": [
+        "Powering the first one-of-one patient financial experience",
+        "AI that’s strengthened by Cedar’s extensive experience"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"https://www.cedar.com/whitepaper/trends-in-healthcare-payments-report-2026?utm_source=linkedin&amp;utm_medium=social&amp;utm_campaig",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x28",
+        "w-node-c3a068e4-3794-3a2e-1f0d-5bd39c92ea77-9c92ea72 x4"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/solutions/cedar-intelligence",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284819530&cv=11&fst=1793284819530&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=1&auid=91893986.1793284768&dt=Cedar%20Intelligence&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fcedar-intelligence&scr",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=14&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fsolutions%2Fcedar-intelligence&scrsrc=www.googletagmanager.com&rnd=1458458638.1"
+      ],
+      "status": 200,
+      "title": "Cedar Intelligence",
+      "lang": "en",
+      "metaDescription": "Providers use the new capabilities powered by Cedar Intelligence, our AI-powered personalization engine, to offer a unique, individualized patient financial experience, boosting patient payments and satisfaction.",
+      "h1": [
+        "Powering the first one-of-one patient financial experience",
+        "AI that’s strengthened by Cedar’s extensive experience"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"https://www.cedar.com/whitepaper/trends-in-healthcare-payments-report-2026?utm_source=linkedin&amp;utm_medium=social&amp;utm_campaig",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x28",
+        "w-node-c3a068e4-3794-3a2e-1f0d-5bd39c92ea77-9c92ea72 x4"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/who-we-serve/health-systems-hospitals",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284823577&cv=11&fst=1793284823577&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=16&frm=0&apvc=1&auid=2001817154.1793284762&dt=Health%20Systems%20%26%20Hospitals&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fwho-we-serve%2Fhe",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=7&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fwho-we-serve%2Fhealth-systems-hospitals&scrsrc=www.googletagmanager.com&rnd=1196"
+      ],
+      "status": 200,
+      "title": "Health Systems & Hospitals",
+      "lang": "en",
+      "metaDescription": "Cedar Pay helps healthcare providers increase revenue with empathetic patient billing. 22% collections lift, 89% patient satisfaction. Schedule a demo today.",
+      "h1": [
+        "When collections gets harder, patient billing needs to get smarter"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"#\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"#\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/resources/case-studies\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [
+        "<input type=\"submit\" class=\"hs-button primary large\" value=\"Submit\">"
+      ],
+      "duplicateIds": [
+        " x70",
+        "w-node-c3a068e4-3794-3a2e-1f0d-5bd39c92ea77-9c92ea72 x4",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        " -> \"#\"",
+        " -> \"#\"",
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/who-we-serve/health-systems-hospitals",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284827255&cv=11&fst=1793284827255&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=2&frm=0&apvc=1&auid=91893986.1793284768&dt=Health%20Systems%20%26%20Hospitals&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fwho-we-serve%2Fhealt",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=3&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fwho-we-serve%2Fhealth-systems-hospitals&scrsrc=www.googletagmanager.com&rnd=1742"
+      ],
+      "status": 200,
+      "title": "Health Systems & Hospitals",
+      "lang": "en",
+      "metaDescription": "Cedar Pay helps healthcare providers increase revenue with empathetic patient billing. 22% collections lift, 89% patient satisfaction. Schedule a demo today.",
+      "h1": [
+        "When collections gets harder, patient billing needs to get smarter"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"#\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"#\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/resources/case-studies\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [
+        "<input type=\"submit\" class=\"hs-button primary large\" value=\"Submit\">"
+      ],
+      "duplicateIds": [
+        " x70",
+        "w-node-c3a068e4-3794-3a2e-1f0d-5bd39c92ea77-9c92ea72 x4",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        " -> \"#\"",
+        " -> \"#\"",
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/who-we-serve/clinician-services-providers",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284831758&cv=11&fst=1793284831758&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=4&frm=0&apvc=1&auid=2001817154.1793284762&dt=Clinician%20Services%20Providers&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fwho-we-serve%2Fclini",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=7&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fwho-we-serve%2Fclinician-services-providers&scrsrc=www.googletagmanager.com&rnd="
+      ],
+      "status": 200,
+      "title": "Clinician Services Providers",
+      "lang": "en",
+      "metaDescription": "Cedar Pay helps healthcare providers increase revenue with empathetic patient billing. 22% collections lift, 89% patient satisfaction. Schedule a demo today.",
+      "h1": [
+        "Convert billing\nconfusion into\nstreamlined\npatient payments"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"#\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/resources/case-studies\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [
+        "<input type=\"submit\" class=\"hs-button primary large\" value=\"Submit\">"
+      ],
+      "duplicateIds": [
+        " x27",
+        "w-node-c3a068e4-3794-3a2e-1f0d-5bd39c92ea77-9c92ea72 x4",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        " -> \"#\"",
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/who-we-serve/clinician-services-providers",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284836047&cv=11&fst=1793284836047&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=11&frm=0&apvc=1&auid=91893986.1793284768&dt=Clinician%20Services%20Providers&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fwho-we-serve%2Fclinic",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=11&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fwho-we-serve%2Fclinician-services-providers&scrsrc=www.googletagmanager.com&rnd"
+      ],
+      "status": 200,
+      "title": "Clinician Services Providers",
+      "lang": "en",
+      "metaDescription": "Cedar Pay helps healthcare providers increase revenue with empathetic patient billing. 22% collections lift, 89% patient satisfaction. Schedule a demo today.",
+      "h1": [
+        "Convert billing confusion\ninto streamlined patient\npayments"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"#\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/resources/case-studies\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [
+        "<input type=\"submit\" class=\"hs-button primary large\" value=\"Submit\">"
+      ],
+      "duplicateIds": [
+        " x27",
+        "w-node-c3a068e4-3794-3a2e-1f0d-5bd39c92ea77-9c92ea72 x4",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        " -> \"#\"",
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/resources",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [
+        "TypeError: Cannot read properties of undefined (reading 'redraw')"
+      ],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284840001&cv=11&fst=1793284840001&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=0&frm=0&apvc=1&auid=2001817154.1793284762&dt=Resources%20Center%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources&scrsrc=www",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=1&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources&scrsrc=www.googletagmanager.com&rnd=1384023615.1793284840&navt=n&npa=1"
+      ],
+      "status": 200,
+      "title": "Resources Center | Cedar",
+      "lang": "en",
+      "metaDescription": "Explore Cedar's resources: blog posts, case studies, whitepapers, Cedar Talks, and research on patient billing, AI, Medicaid, and revenue cycle insights.",
+      "h1": [
+        "Resources",
+        "Subscribe to our newsletter"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/cohorting-patient-ar\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/2026-trends-in-healthcare-payments-three-insights-to-improve-collections\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/ai-reducing-patient-billing-confusion\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/case-studies/after-boosting-patient-payments-42-apollomd-transforms-billing-support-with-agentic-ai\" class=\"btn_link w-inline-block",
+        "<a aria-hidden=\"true\" href=\"/blog/epic-integration-patient-billing\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/blog-ai-voice-agents-for-healthcare-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/five-ways-ai-is-improving-revenue-cycle-management-in-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/how-culture-leads-to-innovation\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/2026-trends-in-healthcare-payments-three-insights-to-improve-collections\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x59",
+        "swiper-resources x2",
+        "swiper-blog x2",
+        "swiper-cases x2",
+        "swiper-cedar-talk x2",
+        "swiper-press x2",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/resources",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [
+        "TypeError: Cannot read properties of undefined (reading 'redraw')"
+      ],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=18&frm=0&apvc=1&auid=91893986.1793284768&dt=Resources%20Center%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources&scrsrc=www.",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284843276&cv=11&fst=1793284843276&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=17&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources&scrsrc=www.googletagmanager.com&rnd=205373154.1793284843&navt=n&npa=1"
+      ],
+      "status": 200,
+      "title": "Resources Center | Cedar",
+      "lang": "en",
+      "metaDescription": "Explore Cedar's resources: blog posts, case studies, whitepapers, Cedar Talks, and research on patient billing, AI, Medicaid, and revenue cycle insights.",
+      "h1": [
+        "Resources",
+        "Subscribe to our newsletter"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/ai-reducing-patient-billing-confusion\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/case-studies/after-boosting-patient-payments-42-apollomd-transforms-billing-support-with-agentic-ai\" class=\"btn_link w-inline-block",
+        "<a aria-hidden=\"true\" href=\"/blog/cohorting-patient-ar\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/2026-trends-in-healthcare-payments-three-insights-to-improve-collections\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/epic-integration-patient-billing\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/blog-ai-voice-agents-for-healthcare-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/five-ways-ai-is-improving-revenue-cycle-management-in-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/how-culture-leads-to-innovation\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/2026-trends-in-healthcare-payments-three-insights-to-improve-collections\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x59",
+        "swiper-resources x2",
+        "swiper-blog x2",
+        "swiper-cases x2",
+        "swiper-cedar-talk x2",
+        "swiper-press x2",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/blog",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284846912&cv=11&fst=1793284846912&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=1&auid=2001817154.1793284762&dt=Blog%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fblog&scrsrc=www.cedar.com&rnd=1236",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=5&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fblog&scrsrc=www.googletagmanager.com&rnd=123651987.1793284847&navt=n&npa=1&ep.ad"
+      ],
+      "status": 200,
+      "title": "Blog | Cedar",
+      "lang": "en",
+      "metaDescription": "Revenue cycle insights, patient billing strategies, and healthcare AI innovations from Cedar's experts. Read case studies, research, and thought leadership.",
+      "h1": [
+        "Blog",
+        "Subscribe to our newsletter"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/epic-integration-patient-billing\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/blog-ai-voice-agents-for-healthcare-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/five-ways-ai-is-improving-revenue-cycle-management-in-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/epic-integration-patient-billing\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/blog-ai-voice-agents-for-healthcare-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/five-ways-ai-is-improving-revenue-cycle-management-in-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/how-culture-leads-to-innovation\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/2026-trends-in-healthcare-payments-three-insights-to-improve-collections\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/improving-patient-collections-what-top-performers-do-differently\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x29",
+        "swiper-blog x2",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/blog",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284850962&cv=11&fst=1793284850962&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=2&frm=0&apvc=1&auid=91893986.1793284768&dt=Blog%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fblog&scrsrc=www.cedar.com&rnd=182032",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=8&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fblog&scrsrc=www.googletagmanager.com&rnd=1820329192.1793284851&navt=n&npa=1&ep.a"
+      ],
+      "status": 200,
+      "title": "Blog | Cedar",
+      "lang": "en",
+      "metaDescription": "Revenue cycle insights, patient billing strategies, and healthcare AI innovations from Cedar's experts. Read case studies, research, and thought leadership.",
+      "h1": [
+        "Blog",
+        "Subscribe to our newsletter"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/epic-integration-patient-billing\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/blog-ai-voice-agents-for-healthcare-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/five-ways-ai-is-improving-revenue-cycle-management-in-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/epic-integration-patient-billing\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/blog-ai-voice-agents-for-healthcare-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/five-ways-ai-is-improving-revenue-cycle-management-in-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/how-culture-leads-to-innovation\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/2026-trends-in-healthcare-payments-three-insights-to-improve-collections\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/improving-patient-collections-what-top-performers-do-differently\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x29",
+        "swiper-blog x2",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/resources/case-studies",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284856032&cv=11&fst=1793284856032&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=4&frm=0&apvc=1&auid=2001817154.1793284762&dt=Case%20Studies%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources%2Fcase-studies",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=14&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources%2Fcase-studies&scrsrc=www.googletagmanager.com&rnd=64363183.179328485"
+      ],
+      "status": 200,
+      "title": "Case Studies | Cedar",
+      "lang": "en",
+      "metaDescription": "Real client success stories. See how healthcare providers increased collections, improved patient satisfaction, and transformed revenue cycle with Cedar.",
+      "h1": [
+        "Case Studies",
+        "Subscribe to our newsletter"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/case-studies/gastro-health-conversational-voice-ai\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/case-studies/usap-patient-payments-customer-service\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/case-studies/unio-health-partners-launched-enterprise-grade-patient-billing-in-under-12-weeks\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/case-studies/after-boosting-patient-payments-42-apollomd-transforms-billing-support-with-agentic-ai\" class=\"btn_link w-inline-block",
+        "<a aria-hidden=\"true\" href=\"/case-studies/post-insurance-payments-jump-over-70-when-patients-trust-anesthesia-billing\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/case-studies/talkiatry-case-study\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/case-studies/national-physician-group-lifts-patient-payments-by-82-with-cedar-pay\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/case-studies/advanced-dermatology-and-cosmetic-surgery-patient-payments\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x14",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/resources/case-studies",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284858617&cv=11&fst=1793284858617&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=15&frm=0&apvc=1&auid=91893986.1793284768&dt=Case%20Studies%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources%2Fcase-studies&",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=15&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources%2Fcase-studies&scrsrc=www.googletagmanager.com&rnd=516364838.17932848"
+      ],
+      "status": 200,
+      "title": "Case Studies | Cedar",
+      "lang": "en",
+      "metaDescription": "Real client success stories. See how healthcare providers increased collections, improved patient satisfaction, and transformed revenue cycle with Cedar.",
+      "h1": [
+        "Case Studies",
+        "Subscribe to our newsletter"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/case-studies/gastro-health-conversational-voice-ai\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/case-studies/usap-patient-payments-customer-service\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/case-studies/unio-health-partners-launched-enterprise-grade-patient-billing-in-under-12-weeks\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/case-studies/after-boosting-patient-payments-42-apollomd-transforms-billing-support-with-agentic-ai\" class=\"btn_link w-inline-block",
+        "<a aria-hidden=\"true\" href=\"/case-studies/post-insurance-payments-jump-over-70-when-patients-trust-anesthesia-billing\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/case-studies/talkiatry-case-study\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/case-studies/national-physician-group-lifts-patient-payments-by-82-with-cedar-pay\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/case-studies/advanced-dermatology-and-cosmetic-surgery-patient-payments\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x14",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/resources/cedar-talk",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284862819&cv=11&fst=1793284862819&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=7&frm=0&apvc=1&auid=2001817154.1793284762&dt=Cedar%20Talk%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources%2Fcedar-talk&scr",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=0&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources%2Fcedar-talk&scrsrc=www.googletagmanager.com&rnd=1377569572.1793284863"
+      ],
+      "status": 200,
+      "title": "Cedar Talk | Cedar",
+      "lang": "en",
+      "metaDescription": "Hear from your peers in healthcare. Cedar Talk features insights from industry leaders, innovators, and entrepreneurs on healthcare transformation.",
+      "h1": [
+        "Cedar Talks",
+        "Subscribe to our newsletter"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/mindpath-healths-ryann-holloway-on-why-revenue-cycle-feels-like-2006-all-over-again\" class=\"btn_link w-inline-block\"></a",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/cedar-talks-zack-perry\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/lcmc-healths-ryan-hildebrand-on-getting-buy-in-for-innovation-initiatives\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/napas-lynn-van-houten-on-building-innovation-from-the-ground-up-in-revenue-cycle-management\" class=\"btn_link w-inline-bl",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/highmark-healths-neil-kulkarni-on-how-to-make-payer-provider-partnerships-thrive\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/apollomds-tennille-lizarraga-on-empowering-patients-as-the-line-between-care-and-billing-blurs\" class=\"btn_link w-inline",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/sonora-quest-laboratories-nichole-kerr-proves-that-healthcare-revenue-cycle-is-a-team-sport\" class=\"btn_link w-inline-bl",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/sharp-healthcare-julie-frahm-digital-patient-experience\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/rayus-radiologys-rick-omrani-on-building-elite-revenue-cycle-teams\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x25",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/resources/cedar-talk",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284865898&cv=11&fst=1793284865898&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=18&frm=0&apvc=1&auid=91893986.1793284768&dt=Cedar%20Talk%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources%2Fcedar-talk&scrs",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=12&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources%2Fcedar-talk&scrsrc=www.googletagmanager.com&rnd=626917311.1793284866"
+      ],
+      "status": 200,
+      "title": "Cedar Talk | Cedar",
+      "lang": "en",
+      "metaDescription": "Hear from your peers in healthcare. Cedar Talk features insights from industry leaders, innovators, and entrepreneurs on healthcare transformation.",
+      "h1": [
+        "Cedar Talks",
+        "Subscribe to our newsletter"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/mindpath-healths-ryann-holloway-on-why-revenue-cycle-feels-like-2006-all-over-again\" class=\"btn_link w-inline-block\"></a",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/cedar-talks-zack-perry\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/lcmc-healths-ryan-hildebrand-on-getting-buy-in-for-innovation-initiatives\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/napas-lynn-van-houten-on-building-innovation-from-the-ground-up-in-revenue-cycle-management\" class=\"btn_link w-inline-bl",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/highmark-healths-neil-kulkarni-on-how-to-make-payer-provider-partnerships-thrive\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/apollomds-tennille-lizarraga-on-empowering-patients-as-the-line-between-care-and-billing-blurs\" class=\"btn_link w-inline",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/sonora-quest-laboratories-nichole-kerr-proves-that-healthcare-revenue-cycle-is-a-team-sport\" class=\"btn_link w-inline-bl",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/sharp-healthcare-julie-frahm-digital-patient-experience\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/cedar-talk/rayus-radiologys-rick-omrani-on-building-elite-revenue-cycle-teams\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x25",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/resources/whitepapers",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284869813&cv=11&fst=1793284869813&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=1&auid=2001817154.1793284762&dt=Whitepapers%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources%2Fwhitepapers&scr",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=10&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources%2Fwhitepapers&scrsrc=www.googletagmanager.com&rnd=67788834.1793284870"
+      ],
+      "status": 200,
+      "title": "Whitepapers | Cedar",
+      "lang": "en",
+      "metaDescription": "Explore Cedar's whitepapers on patient engagement, revenue cycle management, healthcare affordability, and consumer-focused billing experiences.",
+      "h1": [
+        "Whitepapers",
+        "Subscribe to our newsletter"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x6",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/resources/whitepapers",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284872283&cv=11&fst=1793284872283&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=7&frm=0&apvc=1&auid=91893986.1793284768&dt=Whitepapers%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources%2Fwhitepapers&scrsr",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=11&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources%2Fwhitepapers&scrsrc=www.googletagmanager.com&rnd=854836376.179328487"
+      ],
+      "status": 200,
+      "title": "Whitepapers | Cedar",
+      "lang": "en",
+      "metaDescription": "Explore Cedar's whitepapers on patient engagement, revenue cycle management, healthcare affordability, and consumer-focused billing experiences.",
+      "h1": [
+        "Whitepapers",
+        "Subscribe to our newsletter"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x6",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/press",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=12&frm=0&apvc=1&auid=2001817154.1793284762&dt=Press%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fpress&scrsrc=www.cedar.com&rnd=1",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284875570&cv=11&fst=1793284875570&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=0&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fpress&scrsrc=www.googletagmanager.com&rnd=1855437050.1793284876&navt=n&npa=1&ep."
+      ],
+      "status": 200,
+      "title": "Press | Cedar",
+      "lang": "en",
+      "metaDescription": "Latest news, announcements, and press releases from Cedar. Stay updated on our partnerships, funding, product launches, and industry insights.",
+      "h1": [
+        "Press",
+        "Subscribe to our newsletter"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/all-press/cedar-launches-agentic-platform-to-help-providers-collect-from-healthcares-fastest-growing-payer-patients\" class=\"btn_lin",
+        "<a aria-hidden=\"true\" href=\"/all-press/cedar-launches-agentic-platform-to-help-providers-collect-from-healthcares-fastest-growing-payer-patients\" class=\"btn_lin",
+        "<a aria-hidden=\"true\" href=\"/all-press/cedar-expands-ai-powered-personalization-in-healthcare-billing-with-new-cedar-intelligence-capabilities\" class=\"btn_link ",
+        "<a aria-hidden=\"true\" href=\"/all-press/cedar-study-finds-a-growing-mismatch-between-healthcare-billing-systems-and-todays-patients\" class=\"btn_link w-inline-blo",
+        "<a aria-hidden=\"true\" href=\"/all-press/athenaone-practices-are-turning-to-cedar-to-modernize-patient-financial-experience-and-seeing-results-in-as-little-as-eig",
+        "<a aria-hidden=\"true\" href=\"/all-press/built-in-honors-cedar-in-its-esteemed-2026-best-places-to-work-awards-for-sixth-consecutive-year\" class=\"btn_link w-inlin",
+        "<a aria-hidden=\"true\" href=\"/all-press/cedar-launches-cedar-cover-to-help-hospitals-navigate-the-medicaid-and-affordability-crisis\" class=\"btn_link w-inline-blo",
+        "<a aria-hidden=\"true\" href=\"/all-press/cedar-named-to-times-inaugural-list-of-worlds-top-healthtech-companies\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/all-press/cedars-2025-pfx-awards-honor-changemakers-transforming-the-patient-financial-experience\" class=\"btn_link w-inline-block\">"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x32",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/press",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284878787&cv=11&fst=1793284878787&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=3&frm=0&apvc=1&auid=91893986.1793284768&dt=Press%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fpress&scrsrc=www.cedar.com&rnd=2135",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=15&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fpress&scrsrc=www.googletagmanager.com&rnd=2135112359.1793284879&navt=n&npa=1&ep"
+      ],
+      "status": 200,
+      "title": "Press | Cedar",
+      "lang": "en",
+      "metaDescription": "Latest news, announcements, and press releases from Cedar. Stay updated on our partnerships, funding, product launches, and industry insights.",
+      "h1": [
+        "Press",
+        "Subscribe to our newsletter"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/all-press/cedar-launches-agentic-platform-to-help-providers-collect-from-healthcares-fastest-growing-payer-patients\" class=\"btn_lin",
+        "<a aria-hidden=\"true\" href=\"/all-press/cedar-launches-agentic-platform-to-help-providers-collect-from-healthcares-fastest-growing-payer-patients\" class=\"btn_lin",
+        "<a aria-hidden=\"true\" href=\"/all-press/cedar-expands-ai-powered-personalization-in-healthcare-billing-with-new-cedar-intelligence-capabilities\" class=\"btn_link ",
+        "<a aria-hidden=\"true\" href=\"/all-press/cedar-study-finds-a-growing-mismatch-between-healthcare-billing-systems-and-todays-patients\" class=\"btn_link w-inline-blo",
+        "<a aria-hidden=\"true\" href=\"/all-press/athenaone-practices-are-turning-to-cedar-to-modernize-patient-financial-experience-and-seeing-results-in-as-little-as-eig",
+        "<a aria-hidden=\"true\" href=\"/all-press/built-in-honors-cedar-in-its-esteemed-2026-best-places-to-work-awards-for-sixth-consecutive-year\" class=\"btn_link w-inlin",
+        "<a aria-hidden=\"true\" href=\"/all-press/cedar-launches-cedar-cover-to-help-hospitals-navigate-the-medicaid-and-affordability-crisis\" class=\"btn_link w-inline-blo",
+        "<a aria-hidden=\"true\" href=\"/all-press/cedar-named-to-times-inaugural-list-of-worlds-top-healthtech-companies\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/all-press/cedars-2025-pfx-awards-honor-changemakers-transforming-the-patient-financial-experience\" class=\"btn_link w-inline-block\">"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x32",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/resources/calculator-cedar",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284882921&cv=11&fst=1793284882921&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=1&frm=0&apvc=1&auid=2001817154.1793284762&dt=Calculator%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources%2Fcalculator-cedar",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=16&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources%2Fcalculator-cedar&scrsrc=www.googletagmanager.com&rnd=1148921240.179",
+        "net::ERR_ABORTED https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnSVUhzSLwA2XWI61DOsIjZiHNxRshT3OGl67AvQ93Hblykm5SEVd_iw_eWWu3s0EcA4ovi8IFjYbtQ5vu5Ls72NbcLZaoPDFzY_bIUHxv2DXgmlyEEW8xEuytSyGrsn-f"
+      ],
+      "status": 200,
+      "title": "Calculator | Cedar",
+      "lang": "en",
+      "metaDescription": "Explore Cedar's whitepapers on patient engagement, revenue cycle management, healthcare affordability, and consumer-focused billing experiences.",
+      "h1": [
+        "Estimate your impact"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x5"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/resources/calculator-cedar",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284889321&cv=11&fst=1793284889321&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=1&auid=91893986.1793284768&dt=Calculator%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources%2Fcalculator-cedar&",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=15&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fresources%2Fcalculator-cedar&scrsrc=www.googletagmanager.com&rnd=68177566.17932",
+        "net::ERR_ABORTED https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnSCV7sJvX96-8ZKn7U8n1GE5FRSQJ-DKZSvkPxqFGvD0BU5TO5iBq_Fft3Ca6gqj26j7ohhWAucue79HySU7P80gYpt9Ra8Sq9xd1raduvEl8WRLTko34xvF2gCA1hts2"
+      ],
+      "status": 200,
+      "title": "Calculator | Cedar",
+      "lang": "en",
+      "metaDescription": "Explore Cedar's whitepapers on patient engagement, revenue cycle management, healthcare affordability, and consumer-focused billing experiences.",
+      "h1": [
+        "Estimate your impact"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x5"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/whitepaper/trends-in-healthcare-payments-report-2026",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284895130&cv=11&fst=1793284895130&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=1&auid=2001817154.1793284762&dt=2026%20Trends%20In%20Patient%20Payments%3A%20Healthcare%20Financial%20Experience%20Study%20%7C%20Cedar&tid=AW-831157",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=4&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fwhitepaper%2Ftrends-in-healthcare-payments-report-2026&scrsrc=www.googletagmanag"
+      ],
+      "status": 200,
+      "title": "2026 Trends In Patient Payments: Healthcare Financial Experience Study | Cedar",
+      "lang": "en",
+      "metaDescription": "Download our whitepaper: 2026 Trends In Patient Payments: Healthcare Financial Experience Study. Insights and strategies for healthcare revenue cycle management and patient engagement.",
+      "h1": [
+        "2026 Trends In Patient Payments: Healthcare Financial Experience Study"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/resources/whitepapers\" class=\"btn_link w-inline-block\"></a>",
+        "<a fs-socialshare-element=\"facebook\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a fs-socialshare-element=\"x\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-medium\"",
+        "<a fs-socialshare-element=\"linkedin\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a aria-hidden=\"true\" href=\"#\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x9",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/whitepaper/trends-in-healthcare-payments-report-2026",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284898142&cv=11&fst=1793284898142&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=0&frm=0&apvc=1&auid=91893986.1793284768&dt=2026%20Trends%20In%20Patient%20Payments%3A%20Healthcare%20Financial%20Experience%20Study%20%7C%20Cedar&tid=AW-83115799",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=4&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fwhitepaper%2Ftrends-in-healthcare-payments-report-2026&scrsrc=www.googletagmanag"
+      ],
+      "status": 200,
+      "title": "2026 Trends In Patient Payments: Healthcare Financial Experience Study | Cedar",
+      "lang": "en",
+      "metaDescription": "Download our whitepaper: 2026 Trends In Patient Payments: Healthcare Financial Experience Study. Insights and strategies for healthcare revenue cycle management and patient engagement.",
+      "h1": [
+        "2026 Trends In Patient Payments: Healthcare Financial Experience Study"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/resources/whitepapers\" class=\"btn_link w-inline-block\"></a>",
+        "<a fs-socialshare-element=\"facebook\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a fs-socialshare-element=\"x\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-medium\"",
+        "<a fs-socialshare-element=\"linkedin\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a aria-hidden=\"true\" href=\"#\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x9",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/about-us",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=1&auid=2001817154.1793284762&dt=About%20us%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fabout-us&scrsrc=www.cedar.co",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284901643&cv=11&fst=1793284901643&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=8&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fabout-us&scrsrc=www.googletagmanager.com&rnd=618451211.1793284902&navt=n&npa=1&e",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg"
+      ],
+      "status": 200,
+      "title": "About us | Cedar",
+      "lang": "en",
+      "metaDescription": "Cedar Pay helps healthcare providers increase revenue with empathetic patient billing. 22% collections lift, 89% patient satisfaction. Schedule a demo today.",
+      "h1": [
+        "Paying for care should be easy\nand affordable",
+        "Cedar understands our patients’ preferences and behaviors, then they leverage th"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [
+        "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg"
+      ],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"https://vimeo.com/1219654267/55c08bf113?share=copy&amp;fl=sv&amp;fe=ci\" target=\"_blank\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"https://www.linkedin.com/in/florianotto/\" class=\"btn_link w-inline-block\"></a>",
+        "<a href=\"https://www.linkedin.com/in/florianotto/\" target=\"_blank\" class=\"u-link-abs w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"https://www.linkedin.com/in/sethbcohen/\" class=\"btn_link w-inline-block\"></a>",
+        "<a href=\"https://www.linkedin.com/in/sethbcohen/\" target=\"_blank\" class=\"u-link-abs w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"https://www.linkedin.com/in/amyjohannigman/\" class=\"btn_link w-inline-block\"></a>",
+        "<a href=\"https://www.linkedin.com/in/amyjohannigman/\" target=\"_blank\" class=\"u-link-abs w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"https://www.linkedin.com/in/scott-stockberger/\" class=\"btn_link w-inline-block\"></a>",
+        "<a href=\"https://www.linkedin.com/in/scott-stockberger/\" target=\"_blank\" class=\"u-link-abs w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x36"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/about-us",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284906088&cv=11&fst=1793284906088&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=1&auid=91893986.1793284768&dt=About%20us%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fabout-us&scrsrc=www.cedar.com",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=10&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fabout-us&scrsrc=www.googletagmanager.com&rnd=1809144517.1793284906&navt=n&npa=1",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg"
+      ],
+      "status": 200,
+      "title": "About us | Cedar",
+      "lang": "en",
+      "metaDescription": "Cedar Pay helps healthcare providers increase revenue with empathetic patient billing. 22% collections lift, 89% patient satisfaction. Schedule a demo today.",
+      "h1": [
+        "Paying for care\nshould be easy\nand affordable",
+        "Cedar understands our patients’ preferences and behaviors, then they leverage th"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [
+        "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+        "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg"
+      ],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"https://vimeo.com/1219654267/55c08bf113?share=copy&amp;fl=sv&amp;fe=ci\" target=\"_blank\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"https://www.linkedin.com/in/florianotto/\" class=\"btn_link w-inline-block\"></a>",
+        "<a href=\"https://www.linkedin.com/in/florianotto/\" target=\"_blank\" class=\"u-link-abs w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"https://www.linkedin.com/in/sethbcohen/\" class=\"btn_link w-inline-block\"></a>",
+        "<a href=\"https://www.linkedin.com/in/sethbcohen/\" target=\"_blank\" class=\"u-link-abs w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"https://www.linkedin.com/in/amyjohannigman/\" class=\"btn_link w-inline-block\"></a>",
+        "<a href=\"https://www.linkedin.com/in/amyjohannigman/\" target=\"_blank\" class=\"u-link-abs w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"https://www.linkedin.com/in/scott-stockberger/\" class=\"btn_link w-inline-block\"></a>",
+        "<a href=\"https://www.linkedin.com/in/scott-stockberger/\" target=\"_blank\" class=\"u-link-abs w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x36"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/careers/open-roles",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284910720&cv=11&fst=1793284910720&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=16&frm=0&apvc=1&auid=2001817154.1793284762&dt=Open%20Roles%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fcareers%2Fopen-roles&scrs",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=12&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fcareers%2Fopen-roles&scrsrc=www.googletagmanager.com&rnd=2026185105.1793284911&"
+      ],
+      "status": 200,
+      "title": "Open Roles | Cedar",
+      "lang": "en",
+      "metaDescription": "Explore career opportunities at Cedar. Learn about our interview process, company values, and how we support candidates every step of the way.",
+      "h1": [
+        "Open Roles"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x10"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/careers/open-roles",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.\n    at Lf (https://job-boards.cdn.greenhouse.io/assets/vendor-Ann2cuF6.js:38:4933)\n    at a9"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284914746&cv=11&fst=1793284914746&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=1&frm=0&apvc=1&auid=91893986.1793284768&dt=Open%20Roles%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fcareers%2Fopen-roles&scrsrc=",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=8&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fcareers%2Fopen-roles&scrsrc=www.googletagmanager.com&rnd=139800267.1793284915&na"
+      ],
+      "status": 200,
+      "title": "Open Roles | Cedar",
+      "lang": "en",
+      "metaDescription": "Explore career opportunities at Cedar. Learn about our interview process, company values, and how we support candidates every step of the way.",
+      "h1": [
+        "Open Roles"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x10"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/careers/interviewing-at-cedar",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284918909&cv=11&fst=1793284918909&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=1&frm=0&apvc=1&auid=2001817154.1793284762&dt=Interviewing%20at%20Cedar%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fcareers%2Fint",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=17&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fcareers%2Finterviewing-at-cedar&scrsrc=www.googletagmanager.com&rnd=2058594978.",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg"
+      ],
+      "status": 200,
+      "title": "Interviewing at Cedar | Cedar",
+      "lang": "en",
+      "metaDescription": "Cedar unifies billing, payments, coverage, and support through one intelligent platform driving stronger margins for providers and simpler patient experiences.",
+      "h1": [
+        "What to expect: your journey\nat Cedar",
+        "Interview Process"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"https://www.cedar.com/careers/open-roles\" target=\"_blank\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x37"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/careers/interviewing-at-cedar",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284922558&cv=11&fst=1793284922558&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=10&frm=0&apvc=1&auid=91893986.1793284768&dt=Interviewing%20at%20Cedar%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fcareers%2Finte",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=13&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fcareers%2Finterviewing-at-cedar&scrsrc=www.googletagmanager.com&rnd=1301098599.",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg"
+      ],
+      "status": 200,
+      "title": "Interviewing at Cedar | Cedar",
+      "lang": "en",
+      "metaDescription": "Cedar unifies billing, payments, coverage, and support through one intelligent platform driving stronger margins for providers and simpler patient experiences.",
+      "h1": [
+        "What to expect: your\njourney at Cedar",
+        "Interview Process"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"https://www.cedar.com/careers/open-roles\" target=\"_blank\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x37"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/careers",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284926377&cv=11&fst=1793284926377&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=13&frm=0&apvc=1&auid=2001817154.1793284762&dt=Careers%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fcareers&scrsrc=www.cedar.com&r",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=15&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fcareers&scrsrc=www.googletagmanager.com&rnd=1494255464.1793284926&navt=n&npa=1&"
+      ],
+      "status": 200,
+      "title": "Careers | Cedar",
+      "lang": "en",
+      "metaDescription": "Join Cedar's mission to transform healthcare payments. Build innovative AI-powered solutions that help patients afford care and providers thrive.",
+      "h1": [
+        "Your impact starts here",
+        "Culture At Cedar",
+        "Life At Cedar",
+        "Benefits and Wellbeing"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/careers/open-roles\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/careers/interviewing-at-cedar\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/careers/open-roles\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x31",
+        "w-node-c3a068e4-3794-3a2e-1f0d-5bd39c92ea77-9c92ea72 x4"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/careers",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284929997&cv=11&fst=1793284929997&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=17&frm=0&apvc=1&auid=91893986.1793284768&dt=Careers%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fcareers&scrsrc=www.cedar.com&rnd",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=15&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fcareers&scrsrc=www.googletagmanager.com&rnd=457828436.1793284930&navt=n&npa=1&e"
+      ],
+      "status": 200,
+      "title": "Careers | Cedar",
+      "lang": "en",
+      "metaDescription": "Join Cedar's mission to transform healthcare payments. Build innovative AI-powered solutions that help patients afford care and providers thrive.",
+      "h1": [
+        "Your impact\nstarts here",
+        "Culture At Cedar",
+        "Life At Cedar",
+        "Benefits and Wellbeing"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/careers/open-roles\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/careers/interviewing-at-cedar\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/careers/open-roles\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x31",
+        "w-node-c3a068e4-3794-3a2e-1f0d-5bd39c92ea77-9c92ea72 x4"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/book-a-demo",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284934204&cv=11&fst=1793284934204&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=1&auid=2001817154.1793284762&dt=Book%20a%20Demo%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fbook-a-demo&scrsrc=www",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=6&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fbook-a-demo&scrsrc=www.googletagmanager.com&rnd=1472853418.1793284934&navt=n&npa",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg"
+      ],
+      "status": 200,
+      "title": "Book a Demo | Cedar",
+      "lang": "en",
+      "metaDescription": "Schedule a demo to learn how Cedar solves healthcare billing challenges. Personalize patient journeys from pre-visit to post-visit billing.",
+      "h1": [],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" aria-current=\"page\" class=\"btn_link w-inline-block w--current\"></a>"
+      ],
+      "inputsNoLabel": [
+        "<input type=\"submit\" class=\"hs-button primary large\" value=\"Submit\">"
+      ],
+      "duplicateIds": [
+        " x4",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/book-a-demo",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284936403&cv=11&fst=1793284936403&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=12&frm=0&apvc=1&auid=91893986.1793284768&dt=Book%20a%20Demo%20%7C%20Cedar&tid=AW-831157996&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fbook-a-demo&scrsrc=www.c",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=4&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fbook-a-demo&scrsrc=www.googletagmanager.com&rnd=297686435.1793284936&navt=n&npa=",
+        "net::ERR_BLOCKED_BY_ORB https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg"
+      ],
+      "status": 200,
+      "title": "Book a Demo | Cedar",
+      "lang": "en",
+      "metaDescription": "Schedule a demo to learn how Cedar solves healthcare billing challenges. Personalize patient journeys from pre-visit to post-visit billing.",
+      "h1": [],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" aria-current=\"page\" class=\"btn_link w-inline-block w--current\"></a>"
+      ],
+      "inputsNoLabel": [
+        "<input type=\"submit\" class=\"hs-button primary large\" value=\"Submit\">"
+      ],
+      "duplicateIds": [
+        " x4",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/blog/medicaid-enrollment-automation-whats-working-for-providers",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=1&auid=2001817154.1793284762&dt=Medicaid%20Enrollment%20Automation%3A%20What%E2%80%99s%20Working%20for%20Providers%20%7C%20Cedar&tid=AW-831157996&en",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284939219&cv=11&fst=1793284939219&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=12&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fblog%2Fmedicaid-enrollment-automation-whats-working-for-providers&scrsrc=www.go"
+      ],
+      "status": 200,
+      "title": "Medicaid Enrollment Automation: What’s Working for Providers | Cedar",
+      "lang": "en",
+      "metaDescription": "Medicaid enrollment automation is having a moment. Not just for its potential to reduce administrative work, but because it’s helping catch the patien...",
+      "h1": [
+        "Medicaid Enrollment Automation: What’s Working for Providers"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog\" class=\"btn_link w-inline-block\"></a>",
+        "<a fs-socialshare-element=\"facebook\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a fs-socialshare-element=\"x\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-medium\"",
+        "<a fs-socialshare-element=\"linkedin\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a aria-hidden=\"true\" href=\"#\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/epic-integration-patient-billing\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/blog-ai-voice-agents-for-healthcare-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/five-ways-ai-is-improving-revenue-cycle-management-in-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/how-culture-leads-to-innovation\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x25",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/blog/medicaid-enrollment-automation-whats-working-for-providers",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284945418&cv=11&fst=1793284945418&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=1&frm=0&apvc=1&auid=91893986.1793284768&dt=Medicaid%20Enrollment%20Automation%3A%20What%E2%80%99s%20Working%20for%20Providers%20%7C%20Cedar&tid=AW-831157996&en=p",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=13&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fblog%2Fmedicaid-enrollment-automation-whats-working-for-providers&scrsrc=www.go"
+      ],
+      "status": 200,
+      "title": "Medicaid Enrollment Automation: What’s Working for Providers | Cedar",
+      "lang": "en",
+      "metaDescription": "Medicaid enrollment automation is having a moment. Not just for its potential to reduce administrative work, but because it’s helping catch the patien...",
+      "h1": [
+        "Medicaid Enrollment Automation: What’s Working for Providers"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog\" class=\"btn_link w-inline-block\"></a>",
+        "<a fs-socialshare-element=\"facebook\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a fs-socialshare-element=\"x\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-medium\"",
+        "<a fs-socialshare-element=\"linkedin\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a aria-hidden=\"true\" href=\"#\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/epic-integration-patient-billing\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/blog-ai-voice-agents-for-healthcare-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/five-ways-ai-is-improving-revenue-cycle-management-in-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/how-culture-leads-to-innovation\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x25",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/blog/ai-reducing-patient-billing-confusion",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=1&auid=2001817154.1793284762&dt=AI%20for%20Reducing%20Patient%20Billing%20Confusion%3A%20An%20Engineer%E2%80%99s%20Perspective%20%7C%20Cedar&tid=AW-",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284950529&cv=11&fst=1793284950529&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=12&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fblog%2Fai-reducing-patient-billing-confusion&scrsrc=www.googletagmanager.com&rn"
+      ],
+      "status": 200,
+      "title": "AI for Reducing Patient Billing Confusion: An Engineer’s Perspective | Cedar",
+      "lang": "en",
+      "metaDescription": "Five places where AI can help patients understand their medical bills. One principle that decides whether it works.",
+      "h1": [
+        "AI for Reducing Patient Billing Confusion: An Engineer’s Perspective"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog\" class=\"btn_link w-inline-block\"></a>",
+        "<a fs-socialshare-element=\"facebook\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a fs-socialshare-element=\"x\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-medium\"",
+        "<a fs-socialshare-element=\"linkedin\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a aria-hidden=\"true\" href=\"#\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/epic-integration-patient-billing\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/blog-ai-voice-agents-for-healthcare-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/five-ways-ai-is-improving-revenue-cycle-management-in-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/how-culture-leads-to-innovation\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x25",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/blog/ai-reducing-patient-billing-confusion",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=1&auid=91893986.1793284768&dt=AI%20for%20Reducing%20Patient%20Billing%20Confusion%3A%20An%20Engineer%E2%80%99s%20Perspective%20%7C%20Cedar&tid=AW-83",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284955319&cv=11&fst=1793284955319&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=11&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fblog%2Fai-reducing-patient-billing-confusion&scrsrc=www.googletagmanager.com&rn"
+      ],
+      "status": 200,
+      "title": "AI for Reducing Patient Billing Confusion: An Engineer’s Perspective | Cedar",
+      "lang": "en",
+      "metaDescription": "Five places where AI can help patients understand their medical bills. One principle that decides whether it works.",
+      "h1": [
+        "AI for Reducing Patient Billing Confusion: An Engineer’s Perspective"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog\" class=\"btn_link w-inline-block\"></a>",
+        "<a fs-socialshare-element=\"facebook\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a fs-socialshare-element=\"x\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-medium\"",
+        "<a fs-socialshare-element=\"linkedin\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a aria-hidden=\"true\" href=\"#\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/epic-integration-patient-billing\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/blog-ai-voice-agents-for-healthcare-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/five-ways-ai-is-improving-revenue-cycle-management-in-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/how-culture-leads-to-innovation\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x25",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/blog/why-self-pay-collections-matter-what-good-looks-like",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284960791&cv=11&fst=1793284960791&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=1&auid=2001817154.1793284762&dt=Self-Pay%20Collections%3A%20Why%20They%20Matter%20and%20What%20%E2%80%9CGood%E2%80%9D%20Looks%20Like%20%7C%20Cedar&",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=19&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fblog%2Fwhy-self-pay-collections-matter-what-good-looks-like&scrsrc=www.googleta"
+      ],
+      "status": 200,
+      "title": "Self-Pay Collections: Why They Matter and What “Good” Looks Like | Cedar",
+      "lang": "en",
+      "metaDescription": "The $20 copay era is over. High-deductible health plans (HDHPs) and waves of coverage loss mean patients are now providers' fastest-growing payer class.",
+      "h1": [
+        "Self-Pay Collections: Why They Matter and What “Good” Looks Like"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog\" class=\"btn_link w-inline-block\"></a>",
+        "<a fs-socialshare-element=\"facebook\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a fs-socialshare-element=\"x\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-medium\"",
+        "<a fs-socialshare-element=\"linkedin\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a aria-hidden=\"true\" href=\"#\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/epic-integration-patient-billing\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/blog-ai-voice-agents-for-healthcare-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/five-ways-ai-is-improving-revenue-cycle-management-in-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/how-culture-leads-to-innovation\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x25",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/blog/why-self-pay-collections-matter-what-good-looks-like",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284965075&cv=11&fst=1793284965075&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=2&frm=0&apvc=1&auid=91893986.1793284768&dt=Self-Pay%20Collections%3A%20Why%20They%20Matter%20and%20What%20%E2%80%9CGood%E2%80%9D%20Looks%20Like%20%7C%20Cedar&tid",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=17&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fblog%2Fwhy-self-pay-collections-matter-what-good-looks-like&scrsrc=www.googleta"
+      ],
+      "status": 200,
+      "title": "Self-Pay Collections: Why They Matter and What “Good” Looks Like | Cedar",
+      "lang": "en",
+      "metaDescription": "The $20 copay era is over. High-deductible health plans (HDHPs) and waves of coverage loss mean patients are now providers' fastest-growing payer class.",
+      "h1": [
+        "Self-Pay Collections: Why They Matter and What “Good” Looks Like"
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog\" class=\"btn_link w-inline-block\"></a>",
+        "<a fs-socialshare-element=\"facebook\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a fs-socialshare-element=\"x\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-medium\"",
+        "<a fs-socialshare-element=\"linkedin\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a aria-hidden=\"true\" href=\"#\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/epic-integration-patient-billing\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/blog-ai-voice-agents-for-healthcare-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/five-ways-ai-is-improving-revenue-cycle-management-in-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/how-culture-leads-to-innovation\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x25",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/blog/what-is-a-good-patient-collection-rate",
+      "label": "desktop",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284969920&cv=11&fst=1793284969920&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=1&auid=2001817154.1793284762&dt=What%20Is%20a%20Good%20Patient%20Collection%20Rate%3F%20You%E2%80%99re%20Asking%20the%20Wrong%20Question.%20%7C%20C",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=2&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fblog%2Fwhat-is-a-good-patient-collection-rate&scrsrc=www.googletagmanager.com&rn"
+      ],
+      "status": 200,
+      "title": "What Is a Good Patient Collection Rate? You’re Asking the Wrong Question. | Cedar",
+      "lang": "en",
+      "metaDescription": "There is no universal “good” patient collection rate. Instead, focus on consistently measuring your own performance over time.",
+      "h1": [
+        "What Is a Good Patient Collection Rate? You’re Asking the Wrong Question."
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog\" class=\"btn_link w-inline-block\"></a>",
+        "<a fs-socialshare-element=\"facebook\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a fs-socialshare-element=\"x\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-medium\"",
+        "<a fs-socialshare-element=\"linkedin\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a aria-hidden=\"true\" href=\"#\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/epic-integration-patient-billing\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/blog-ai-voice-agents-for-healthcare-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/five-ways-ai-is-improving-revenue-cycle-management-in-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/how-culture-leads-to-innovation\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x25",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        "My Privacy Choices -> \"#\""
+      ]
+    },
+    {
+      "url": "https://www.cedar.com/blog/what-is-a-good-patient-collection-rate",
+      "label": "mobile",
+      "console": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "pageErrors": [],
+      "httpErrors": [
+        "403 script https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "403 xhr https://cdn.prod.website-files.com/plugins/Animation/assets/wf-placeholder.cd67a2c2ba.json"
+      ],
+      "failedRequests": [
+        "net::ERR_ABORTED https://cdn-cookieyes.com/client_data/1edeb539bca5ec331155fc67c90b328b/script.js",
+        "net::ERR_ABORTED https://www.google.com/rmkt/collect/831157996/?random=1793284973107&cv=11&fst=1793284973107&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e6ar1v870986078za20czd870986078xecxf4&gcd=13l3l3l3l1",
+        "net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=12&frm=0&apvc=1&auid=91893986.1793284768&dt=What%20Is%20a%20Good%20Patient%20Collection%20Rate%3F%20You%E2%80%99re%20Asking%20the%20Wrong%20Question.%20%7C%20Ced",
+        "net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=2&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cedar.com%2Fblog%2Fwhat-is-a-good-patient-collection-rate&scrsrc=www.googletagmanager.com&rn"
+      ],
+      "status": 200,
+      "title": "What Is a Good Patient Collection Rate? You’re Asking the Wrong Question. | Cedar",
+      "lang": "en",
+      "metaDescription": "There is no universal “good” patient collection rate. Instead, focus on consistently measuring your own performance over time.",
+      "h1": [
+        "What Is a Good Patient Collection Rate? You’re Asking the Wrong Question."
+      ],
+      "horizontalOverflow": null,
+      "brokenImages": [],
+      "imagesNoAlt": [],
+      "unnamedControls": [
+        "<a aria-hidden=\"true\" href=\"/book-a-demo\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog\" class=\"btn_link w-inline-block\"></a>",
+        "<a fs-socialshare-element=\"facebook\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a fs-socialshare-element=\"x\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-medium\"",
+        "<a fs-socialshare-element=\"linkedin\" href=\"#\" class=\"link-wrapper w-inline-block\"><div data-wf--icon--component-type=\"image\" class=\"icon u-color-inherit u-icon-",
+        "<a aria-hidden=\"true\" href=\"#\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/epic-integration-patient-billing\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/blog-ai-voice-agents-for-healthcare-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/five-ways-ai-is-improving-revenue-cycle-management-in-2026\" class=\"btn_link w-inline-block\"></a>",
+        "<a aria-hidden=\"true\" href=\"/blog/how-culture-leads-to-innovation\" class=\"btn_link w-inline-block\"></a>"
+      ],
+      "inputsNoLabel": [],
+      "duplicateIds": [
+        " x25",
+        "Email x2"
+      ],
+      "emptyHrefs": [
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        " -> \"#\"",
+        "My Privacy Choices -> \"#\""
+      ]
+    }
+  ],
+  "brokenLinks": [
+    {
+      "href": "https://www.linkedin.com/company/cedar-inc./",
+      "status": 999,
+      "foundOn": [
+        "https://www.cedar.com",
+        "https://www.cedar.com",
+        "https://www.cedar.com/solutions/cedar-pay"
+      ]
+    },
+    {
+      "href": "https://x.com/CedarNY",
+      "status": 403,
+      "foundOn": [
+        "https://www.cedar.com",
+        "https://www.cedar.com",
+        "https://www.cedar.com/solutions/cedar-pay"
+      ]
+    },
+    {
+      "href": "https://www.linkedin.com/in/florianotto/",
+      "status": 999,
+      "foundOn": [
+        "https://www.cedar.com/about-us",
+        "https://www.cedar.com/about-us"
+      ]
+    },
+    {
+      "href": "https://www.linkedin.com/in/sethbcohen/",
+      "status": 999,
+      "foundOn": [
+        "https://www.cedar.com/about-us",
+        "https://www.cedar.com/about-us"
+      ]
+    },
+    {
+      "href": "https://www.linkedin.com/in/amyjohannigman/",
+      "status": 999,
+      "foundOn": [
+        "https://www.cedar.com/about-us",
+        "https://www.cedar.com/about-us"
+      ]
+    },
+    {
+      "href": "https://www.linkedin.com/in/scott-stockberger/",
+      "status": 999,
+      "foundOn": [
+        "https://www.cedar.com/about-us",
+        "https://www.cedar.com/about-us"
+      ]
+    },
+    {
+      "href": "https://www.linkedin.com/in/benjamin-defnet-0a016232/",
+      "status": 999,
+      "foundOn": [
+        "https://www.cedar.com/about-us",
+        "https://www.cedar.com/about-us"
+      ]
+    },
+    {
+      "href": "https://www.linkedin.com/in/duganwinkie/",
+      "status": 999,
+      "foundOn": [
+        "https://www.cedar.com/about-us",
+        "https://www.cedar.com/about-us"
+      ]
+    },
+    {
+      "href": "https://www.linkedin.com/in/lizratto/",
+      "status": 999,
+      "foundOn": [
+        "https://www.cedar.com/about-us",
+        "https://www.cedar.com/about-us"
+      ]
+    },
+    {
+      "href": "https://www.themuse.com/advice/star-interview-method",
+      "status": 403,
+      "foundOn": [
+        "https://www.cedar.com/careers/interviewing-at-cedar",
+        "https://www.cedar.com/careers/interviewing-at-cedar"
+      ]
+    },
+    {
+      "href": "https://www.cbo.gov/publication/61570",
+      "status": 403,
+      "foundOn": [
+        "https://www.cedar.com/blog/medicaid-enrollment-automation-whats-working-for-providers",
+        "https://www.cedar.com/blog/medicaid-enrollment-automation-whats-working-for-providers"
+      ]
+    },
+    {
+      "href": "https://www.linkedin.com/in/ben-v-kraus",
+      "status": 999,
+      "foundOn": [
+        "https://www.cedar.com/blog/medicaid-enrollment-automation-whats-working-for-providers",
+        "https://www.cedar.com/blog/medicaid-enrollment-automation-whats-working-for-providers"
+      ]
+    },
+    {
+      "href": "https://www.experian.com/blogs/healthcare/impact-of-healthcare-staffing-shortages-on-revenue-cycle-management/",
+      "status": 403,
+      "foundOn": [
+        "https://www.cedar.com/blog/ai-reducing-patient-billing-confusion",
+        "https://www.cedar.com/blog/ai-reducing-patient-billing-confusion"
+      ]
+    },
+    {
+      "href": "https://www.cedar.com/blog/hospital-billing-calls-ai-automation-study/",
+      "status": 404,
+      "foundOn": [
+        "https://www.cedar.com/blog/ai-reducing-patient-billing-confusion",
+        "https://www.cedar.com/blog/ai-reducing-patient-billing-confusion",
+        "https://www.cedar.com/blog/why-self-pay-collections-matter-what-good-looks-like"
+      ]
+    },
+    {
+      "href": "https://www.cedar.com/2024-healthcare-financial-experience-study/",
+      "status": 404,
+      "foundOn": [
+        "https://www.cedar.com/blog/why-self-pay-collections-matter-what-good-looks-like",
+        "https://www.cedar.com/blog/why-self-pay-collections-matter-what-good-looks-like"
+      ]
+    },
+    {
+      "href": "https://www.linkedin.com/in/allisoneschbach/",
+      "status": 999,
+      "foundOn": [
+        "https://www.cedar.com/blog/what-is-a-good-patient-collection-rate",
+        "https://www.cedar.com/blog/what-is-a-good-patient-collection-rate"
+      ]
+    }
+  ]
+}
