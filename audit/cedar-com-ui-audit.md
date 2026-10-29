@@ -16,6 +16,17 @@
 | 6 | Low (a11y) | Focusable links marked `aria-hidden="true"` | site-wide |
 | 7 | Low (a11y) | Duplicate `id="Email"` | 15 pages |
 | 8 | Low (a11y/SEO) | Multiple `<h1>` per page; none on Book a demo | most pages |
+| 9 | High | Old URLs not redirected after the move to Webflow: 58 broken internal URLs | 72 pages |
+| 10 | High | Privacy policy link broken, including on `/california-privacy-notice` | 6 pages |
+| 11 | High | "Request a demo" link broken | 5 research pages |
+| 12 | Medium | 2024 study link (finding 1) is broken on 14 pages, not 2 | 9 blog posts, 5 press releases |
+| 13 | Medium | Sitemap lists 3 pages that return 404 | `sitemap.xml` |
+| 14 | Medium | Links to the old staging site `dev-cedar-website.pantheonsite.io` | 35 links on 24 pages |
+| 15 | Low | Links to dead subdomains `old.cedar.com` and `decode.cedar.com` | 7 pages |
+| 16 | Low (a11y) | Footer link text fails WCAG AA contrast (3.54:1) | site-wide |
+| 17 | Low | Invisible `U+FFFC` character pasted into URLs breaks press links | 7 broken links |
+
+Findings 9–17 were added on 2026-10-29 from a full check of all 438 sitemap pages (see [Full-site check 2026-10-29](#full-site-check-2026-10-29)).
 
 ## Findings
 
@@ -96,6 +107,78 @@ Two newsletter forms on the same page both use `id="Email"` (15 pages). `<label 
 Most pages have 2–4 `<h1>` (section headings and "Subscribe to our newsletter" use `h1`); `/book-a-demo` has none. Example: `/careers` has 4.
 **Fix:** one `h1` per page; use `h2` for section headings and the newsletter block.
 
+## Full-site check 2026-10-29
+**Scope:** all 438 URLs in `https://www.cedar.com/sitemap.xml`, plus every link and image on those pages (~1,900 unique URLs). It fetched HTML only, with no browser, so it doesn't report console errors. Lighthouse (mobile) was also run on the homepage. The full list of broken links with the pages they are on is in `evidence/broken-links-2026-10-29.md`.
+
+### 9. Old URLs not redirected after the move to Webflow
+Many pages still link to URLs from the previous site (root-level slugs with a trailing slash, e.g. `/cedar-pay/`). These return 404 because no redirect was set up. In total, 58 broken internal URLs appear on 72 pages.
+
+| Broken URL | Pages linking to it |
+| --- | --- |
+| `/2024-healthcare-financial-experience-study/` | 14 (finding 12) |
+| `/cedar-suite/` | 9 |
+| `/privacy-policy/` | 6 (finding 10) |
+| `/pfx-benchmark/` | 6 |
+| `/blog/hospital-billing-calls-ai-automation-study/` | 6 |
+| `/cedar-pay/` | 6 |
+| `/cedar-cares/`, `/dei-cedar/`, `/request-a-demo/`, `/security-details/`, `/the-cedar-advantage/` | 5 each |
+| `/ahn-highmark-case-study/` | 4 |
+| ~45 more, mostly old blog, press and case-study slugs | 1–3 each |
+
+**Repro:** `curl -sL -o /dev/null -w '%{http_code}' https://www.cedar.com/cedar-pay/` returns `404`. The current page is `/solutions/cedar-pay`.
+**Fix:** add 301 redirects for the old URLs in Webflow (Site settings → Publishing → 301 redirects). A handful of rules covers most of them: the top 12 URLs above account for most of the broken links.
+
+### 10. Privacy policy link broken
+`/privacy-policy/` returns 404. It is linked from `/california-privacy-notice` and 5 research pages (`/research/2020-healthcare-consumer-experience-study`, `/research/2021-healthcare-consumer-experience-study`, `/research/3-trends-for-increasing-payments-patient-loyalty`, `/research/3-trends-for-understanding-the-digital-demands-of-consumers`, `/research/price-transparency-executive-brief`). A broken privacy-policy link on a legal notice is a compliance risk. The live page is `/legal/privacy-policy`.
+**Repro:** open `https://www.cedar.com/california-privacy-notice`, click the privacy policy link → 404.
+**Fix:** redirect `/privacy-policy/` → `/legal/privacy-policy`.
+
+### 11. "Request a demo" link broken
+`/request-a-demo/` returns 404 on the same 5 research pages listed in finding 10. These are lead-generation pages, so the broken link costs demo requests. The live page is `/book-a-demo`.
+**Fix:** redirect `/request-a-demo/` → `/book-a-demo`.
+
+### 12. 2024 study link broken on 14 pages
+The broken `/2024-healthcare-financial-experience-study/` link from finding 1 appears on 14 pages, not 2: 9 blog posts and 5 press releases (some with `utm_` parameters). The live study is at `/research/2024-healthcare-financial-experience-study`, so one redirect fixes all 14.
+
+### 13. Sitemap lists pages that return 404
+`sitemap.xml` includes 3 URLs that return 404, which asks search engines to index pages that don't exist:
+- `/blog/cedar-talks-farmgirl-flowers-founder-christina-stembels-top-five-insights-on-bootstrapping-for-good`
+- `/blog/cedar-talks-leadership-lessons-from-adtium-bio-co-founder-and-managing-partner-joe-jimenez`
+- `/blog/cedar-talks-zola-co-founder-ceo-shan-lyn-mas-top-5-recommendations-for-pitching-pivoting-and-disrupting-in-new-industries`
+
+**Fix:** republish the posts, or remove them from the CMS collection or sitemap.
+
+### 14. Links to the old staging site
+35 links on 24 older blog posts point to `https://dev-cedar-website.pantheonsite.io/...` (e.g. `/2019/05/10/3-career-lessons-from-top-tech-disruptor-brian-...`). All return 404, and they expose a development domain to visitors and search engines.
+**Fix:** replace them with the matching `www.cedar.com/blog/...` URLs.
+
+### 15. Links to dead subdomains
+- `old.cedar.com` has no DNS record (5 links on 3 pages, e.g. `old.cedar.com/blog/medicaid-cuts-health-system-ceos-strategies/`).
+- `decode.cedar.com`, the engineering blog, points to Ghost but does not respond (4 links on 4 pages).
+
+**Fix:** point the links to the current `www.cedar.com` pages, or restore or redirect the subdomains.
+
+### 16. Footer text contrast too low
+Lighthouse (mobile, homepage): footer links use `#6f894b` on `#dbffb5`, a contrast of **3.54:1** against WCAG AA's 4.5:1 minimum. "My Privacy Choices" (`#70904f`) is 3.27:1. This affects every footer link on every page. Lighthouse also flagged the lime "Results that change lives" heading (1.26:1) and the "Commercially Insured / Underinsured" labels (1.66:1). Those may be caught mid-animation and need a visual check.
+**Fix:** darken the footer link colour to at least 4.5:1, e.g. a darker green.
+
+### 17. Invisible character in press links
+Several press links have `%EF%BF%BC` (U+FFFC, an "object replacement" character, usually pasted in from a rich-text editor) at the end of the URL, e.g. `/all-press/fierce-healthcare-names-cedar-as-one-of-its-2022-fierce-15-companies%EF%BF%BC/`. Seven such links return 404.
+**Fix:** remove the character from the link URLs in the CMS.
+
+### Lower priority
+- **No `<link rel="canonical">`** on any page checked (SEO).
+- **Missing security headers:** no `Content-Security-Policy`, `X-Frame-Options` or `X-Content-Type-Options`, and no `/.well-known/security.txt`. HSTS is set correctly.
+- **No `<h1>`** on `/book-a-demo`, `/hot-takes-2026`, `/financial-leadership-council-2025`, `/pfxawards-nomination`.
+- **Duplicate title:** `/blog/ai-voice-agents-can-handle-patient-billing-questions--but-only-if-theyre-purpose-built` and `/blog/ai-voice-agents-patient-billing-specialized-vs-generic`.
+- **~100 dead external links** in older posts (closed companies, past event pages such as `annual.hfma.org/2019/...`). This is a rough count: some failures are TLS or timeout errors from the script and may work in a browser.
+
+### Checked in the full-site check, not bugs
+- http → https and `cedar.com` → `www.cedar.com` both 301 to `https://www.cedar.com/`. HSTS is set with `preload`.
+- Unknown URLs return a real 404 status (not a soft 404).
+- Lighthouse homepage scores (mobile): Accessibility 96, Best Practices 73 (because of findings 4 and 5 and third-party cookies), SEO 100.
+- `/cdn-cgi/l/email-protection` showed as 404 on 434 pages. That is Cloudflare's email obfuscation, which works in a browser.
+
 ## Checked and not bugs
 - **13 external links flagged 403/999** (LinkedIn profiles, x.com, themuse.com, cbo.gov, experian.com): these sites block automated requests; links are expected to work in a browser.
 - **"My Privacy Choices" (`href="#"`)** works: it reopens the DataGrail banner via script.
@@ -125,6 +208,9 @@ The external 403/999 links are the same 13 as on 2026-10-27. Raw data: `evidence
 ## Evidence
 - `evidence/crawl-results.json`: raw per-page results (console errors, failed requests, a11y checks, broken links)
 - `evidence/crawl-results-2026-10-29.json`: raw results from the 2026-10-29 re-check
+- `evidence/sitecheck.py`: full-site check script (sitemap pages + every link). Run with `curl -sL https://www.cedar.com/sitemap.xml -o sitemap.xml && python3 audit/evidence/sitecheck.py out.json sitemap.xml`
+- `evidence/sitecheck-2026-10-29.json`: raw results of the full-site check
+- `evidence/broken-links-2026-10-29.md`: every broken link from the full-site check, with the pages it appears on
 - `evidence/crawl-script.cjs`: the crawl script. Run with `BASE_URL=https://www.cedar.com NODE_PATH=$PWD/node_modules node audit/evidence/crawl-script.cjs <out-dir>` (`<out-dir>` needs a `shots/` folder)
 - `evidence/screenshots/desktop-home.png`, `mobile-home.png`: full-page homepage
 - `evidence/screenshots/consent-banner-on-load.png`: DataGrail banner on first load
