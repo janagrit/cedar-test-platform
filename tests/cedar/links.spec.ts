@@ -3,7 +3,7 @@ import { expect, test, type APIRequestContext } from '@playwright/test';
 /**
  * Link checks for www.cedar.com, from audit/cedar-com-ui-audit.md.
  *
- * Every test asserts the CORRECT behaviour. Tests for bugs that are still open
+ * Every test checks what the site should do. Tests for bugs that are still open
  * call test.fail(): they show as "Known bug" while the bug exists, and turn into a
  * real failure ("passed unexpectedly") once the bug is fixed. That is the signal
  * to delete the test.fail() line.

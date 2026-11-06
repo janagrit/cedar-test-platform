@@ -2,8 +2,8 @@ import type { Reporter, TestCase, TestResult } from '@playwright/test/reporter';
 
 /**
  * Prints one result table at the end of every run, then totals.
- * Separates real failures from `test.fail` known-bug tests that failed as expected,
- * so a green run never hides an open bug. Ported from dili-qa-skeleton's
+ * Known-bug tests (marked test.fail) get their own "Known bug" status instead of
+ * being counted as passed. Ported from dili-qa-skeleton's
  * reporters/table-summary-reporter.js, without the cli-table3/chalk dependencies.
  */
 

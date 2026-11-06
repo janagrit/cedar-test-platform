@@ -4,23 +4,21 @@
 
 An independent quality check of www.cedar.com, plus automated tests that track each issue found.
 
-- **Full report:** [audit/cedar-com-ui-audit.md](audit/cedar-com-ui-audit.md): each issue with severity, steps to reproduce and a suggested fix
-- **Tests:** [tests/cedar/](tests/cedar/): Playwright + TypeScript, one test per issue
-- **Framework:** the test platform the tests run on is described [below](#test-platform)
+The full report is in [audit/cedar-com-ui-audit.md](audit/cedar-com-ui-audit.md), with severity, steps to reproduce and a suggested fix for each issue. The tests are in [tests/cedar/](tests/cedar/) (Playwright + TypeScript, one test per issue). The framework they run on is described [below](#test-platform).
 
 Iana Grytsenko, Senior SDET · [janagrit.github.io](https://janagrit.github.io) · [linkedin.com/in/ianagrytsenko](https://linkedin.com/in/ianagrytsenko). I'm happy to walk through the tests or the findings.
 
 ## What I checked
 
-- **Homepage and 28 linked pages** in Chromium at desktop (1440×900) and mobile (iPhone 13) sizes: console errors, failed requests, broken images, accessibility basics (headings, duplicate ids, hidden focusable links, contrast).
-- **All 438 pages in `sitemap.xml`** and every link and image on them (~1,900 URLs): 404s, missing redirects, links to old or dead domains.
-- **Lighthouse** (mobile) on the homepage.
+- The homepage and 28 linked pages in Chromium at desktop (1440×900) and mobile (iPhone 13) sizes: console errors, failed requests, broken images, accessibility basics (headings, duplicate ids, hidden focusable links, contrast).
+- All 438 pages in `sitemap.xml` and every link and image on them (~1,900 URLs): 404s, missing redirects, links to old or dead domains.
+- Lighthouse (mobile) on the homepage.
 
 The check was passive. I submitted no forms, logged into nothing and did no load or security testing. It ran from one location, in Chromium only.
 
 Checked 2026-10-27, re-checked 2026-10-29. Every issue was still live on 2026-11-06.
 
-**Main findings** (17 in total; the report has the full list):
+Main findings (17 in total; the report has all of them):
 
 | # | Severity | Issue |
 | --- | --- | --- |
@@ -50,13 +48,13 @@ CEDAR_URL=https://staging.example.com npm run test:cedar
 
 ## How to read the results table
 
-Each test checks what the site **should** do. Tests for issues that are still open are marked with `test.fail()`, so the run stays green while the bug exists, and the table still shows it.
+Each test checks what the site should do. Tests for issues that are still open are marked with `test.fail()`, so the run stays green while the bug exists, and the table still shows it.
 
 | Status | Meaning |
 | --- | --- |
 | **Passed** | Works as expected. These are control checks, e.g. the live pages return 200. |
 | **Known bug** | The issue is still on the site. The test failed, as expected. |
-| **Failed** | Something changed and needs a look. Usually the **bug was fixed**: the test now passes, and its `test.fail()` line should be removed. It can also mean a real new failure. |
+| **Failed** | Something changed and needs a look. Usually it means the bug was fixed: the test now passes, and its `test.fail()` line should be removed. It can also mean a real new failure. |
 | **Skipped** | Not run. |
 
 Example (shortened):
@@ -81,13 +79,12 @@ Skipped: 0
 
 The `#` in each test name matches the finding number in the report.
 
-**Known bugs also count network failures.** If the site can't be reached, a known-bug test also fails "as expected". The control tests catch this: if they fail, the run didn't actually reach the site.
+One caveat: if the site can't be reached, the known-bug tests still fail "as expected" and show as Known bug. The control tests catch this: if they fail, the run didn't actually reach the site.
 
 ## Test platform
 
-A small, dependency-light starting point for test tooling:
-faster and more reliable test runs, service-level (contract) testing, CI integration,
-and risk visibility.
+A small test framework with few dependencies. It has Python tools for picking which tests to run
+and finding flaky ones, contract tests for API responses, and a Playwright/TypeScript setup with CI.
 
 ### Layout
 
@@ -114,14 +111,17 @@ python3 tools/impacted_tests.py --base origin/master
 
 ### Design notes
 
-- **Speed:** `impacted_tests.py` runs only suites affected by a change. It falls back to the full
-  suite when a change touches shared config or an unmapped path, so it never silently skips tests.
-- **Reliability:** `flaky_report.py` compares the same test across runs. A test that both passes
-  and fails on the same commit is flagged, with its failure messages, so the owner can fix or quarantine it.
-- **Contracts:** `tests/api/` checks that each response matches the agreed schema and that
-  backward-compatible fields still exist. This catches breaking changes before deployment.
-- **Risk visibility:** the JUnit output feeds any dashboard or report. Add the
-  owner and last-failure date to `test_map.json` to track coverage gaps per service.
+`impacted_tests.py` runs only the suites a change touches. If the change hits shared config or a
+path that isn't in `test_map.json`, it runs everything instead, so tests are never skipped by accident.
+
+`flaky_report.py` compares the same test across CI runs and lists any test that both passed and
+failed, with its failure messages.
+
+`tests/api/` checks each response against the agreed schema, including fields kept for backward
+compatibility, so a breaking API change fails here before it ships.
+
+The JUnit XML can go into any dashboard. To track gaps per service, add an owner and a
+last-failure date to `test_map.json`.
 
 ### Next steps (not yet built)
 
